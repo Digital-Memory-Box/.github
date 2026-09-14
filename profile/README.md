@@ -85,13 +85,6 @@ Media is persisted through secure cloud infrastructure — with metadata, access
 
 </div>
 
-<br />
-
-## Repositories
-
-<div align="center">
-
-</div>
 
 <br />
 
