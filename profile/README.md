@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://via.placeholder.com/1200x300/0a0a0a/ffffff?text=BestBefore" alt="BestBefore Banner" width="100%" />
 
 <br />
 
@@ -91,11 +90,6 @@ Media is persisted through secure cloud infrastructure — with metadata, access
 ## Repositories
 
 <div align="center">
-
-| Repository | Description |
-|:--|:--|
-| `repo-name` | *short description* |
-| `repo-name` | *short description* |
 
 </div>
 
