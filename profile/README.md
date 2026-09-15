@@ -90,7 +90,7 @@ Media is persisted through secure cloud infrastructure — with metadata, access
 
 ## Join Us
 
-*Add a line here — hiring, private beta, waitlist link, or contribution guidelines.*
+https://bestbeforew.up.railway.app
 
 <br />
 
